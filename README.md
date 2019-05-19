@@ -1,3 +1,3 @@
 # hello-world
-obligatory test
-I am a programming student, with two silly cats who also likes to knit.
+
+I am a programming student, with two silly cats I also like to knit.
