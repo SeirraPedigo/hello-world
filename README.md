@@ -1,2 +1,3 @@
 # hello-world
-obligatory test
+
+I am a programming student, with two silly cats I also like to knit.
